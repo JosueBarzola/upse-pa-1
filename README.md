@@ -3,8 +3,7 @@
 Práctica de Programacion Avanzada 1 - UPSE
 
 
-Luis Torres
-Josué Barzola
+RAMA 2: JOSUE BARZOLA
 
 
 # Cómo ejecutar este proyecto
