@@ -4,6 +4,7 @@ Práctica de Programacion Avanzada 1 - UPSE
 
 
 Luis Torres
+Josué Barzola
 
 
 # Cómo ejecutar este proyecto
